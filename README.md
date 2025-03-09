@@ -29,10 +29,14 @@ Foram criados protótipos para as telas do sistema, conforme abaixo:
   <tr>
     <th>Tela de Login</th>
     <th>Dashboard do Funcionário</th>
+   <th>Cadastro de Pessoa Física</th>
+    <th>Cadastro de Pessoa Jurídica</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c7ce55b6-3808-454b-a568-fae2dc8fd475" width="300"></td>
     <td><img src="https://github.com/user-attachments/assets/14d3a6c4-2d94-4ef1-8448-6bba017e4c4c" width="300"></td>
+    <th>Cadastro de Pessoa Física</th>
+    <th>Cadastro de Pessoa Jurídica</th>
   </tr>
 </table>
 
