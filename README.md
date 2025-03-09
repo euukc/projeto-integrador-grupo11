@@ -3,7 +3,7 @@
 ## Sobre o Projeto  
 Este projeto tem como objetivo desenvolver um sistema para a gestão eficiente de dados acadêmicos, incluindo o cadastro e gerenciamento de alunos, professores e fornecedores para a disciplina de Projeto Integrador do Curso de Análise e Desenvolvimento de Sistemas do Senac.  
 
-## 🚀 Funcionalidades  
+##  Funcionalidades  
 - Cadastro de Pessoa Física ​
 - Cadastro de Pessoa Jurídica ​
 - Cadastro de Professores ​
@@ -12,17 +12,17 @@ Este projeto tem como objetivo desenvolver um sistema para a gestão eficiente d
  
 
 
-### 1️⃣ Diagramas  
+###  Diagramas  
 Os seguintes diagramas foram criados para representar a estrutura e os fluxos do sistema:  
-- **Diagrama de Casos de Uso** 🖼️  
+- **Diagrama de Casos de Uso**   
  ![image](https://github.com/user-attachments/assets/569c44f9-2e18-48d8-95aa-6e5fcaf936cd)
 
-- **Diagrama de Classes** 📌  
+- **Diagrama de Classes**   
 ![image](https://github.com/user-attachments/assets/b9462230-5b62-4f37-b0ee-99211d8aa286)
 
 
 
-### 2️⃣ Protótipos de Interface  
+###  Protótipos de Interface  
 Foram criados protótipos para as telas do sistema, conforme abaixo:
 
 <table>
