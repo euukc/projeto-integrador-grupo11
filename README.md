@@ -35,8 +35,9 @@ Foram criados protótipos para as telas do sistema, conforme abaixo:
   <tr>
     <td><img src="https://github.com/user-attachments/assets/c7ce55b6-3808-454b-a568-fae2dc8fd475" width="300"></td>
     <td><img src="https://github.com/user-attachments/assets/14d3a6c4-2d94-4ef1-8448-6bba017e4c4c" width="300"></td>
-    <th>Cadastro de Pessoa Física</th>
-    <th>Cadastro de Pessoa Jurídica</th>
+    <td><img src="https://github.com/user-attachments/assets/e786179b-019c-47bf-bf32-3e1488229efa" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c" width="300"></td>
+    
   </tr>
 </table>
 
