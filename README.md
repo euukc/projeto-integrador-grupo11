@@ -4,11 +4,12 @@
 Este projeto tem como objetivo desenvolver um sistema para a gestão eficiente de dados acadêmicos, incluindo o cadastro e gerenciamento de alunos, professores e fornecedores para a disciplina de Projeto Integrador do Curso de Análise e Desenvolvimento de Sistemas do Senac.  
 
 ## 🚀 Funcionalidades  
-- Cadastro de Pessoas (Físicas e Jurídicas)  
-- Gerenciamento de Alunos, Professores e Fornecedores  
-- Validação automática de CPF e CNPJ  
-- Autenticação de funcionários  
-- Associação de professores às disciplinas  
+- Cadastro de Pessoa Física ​
+- Cadastro de Pessoa Jurídica ​
+- Cadastro de Professores ​
+- Cadastro de Fornecedores ​
+- Cadastro de Alunos
+ 
 
 
 ### 1️⃣ Diagramas  
@@ -28,19 +29,19 @@ Foram criados protótipos para as telas do sistema, conforme abaixo:
 - **Dashboard do Funcionário**  
   ![image](https://github.com/user-attachments/assets/14d3a6c4-2d94-4ef1-8448-6bba017e4c4c)
 
-  - **Tela de Cadastro de Pessoa Física**
+- **Tela de Cadastro de Pessoa Física**
   ![image](https://github.com/user-attachments/assets/e786179b-019c-47bf-bf32-3e1488229efa)
 
- - **Tela de Cadastro de Pessoa Jurídica**
+- **Tela de Cadastro de Pessoa Jurídica**
 ![image](https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c)
 
- - **Tela de Cadastro de Professores**
+- **Tela de Cadastro de Professores**
 ![image](https://github.com/user-attachments/assets/8d58cacd-6c03-4f68-b72c-9c70e6eaad18)
 
- - **Tela de Cadastro de Fornecedores**
+- **Tela de Cadastro de Fornecedores**
 ![image](https://github.com/user-attachments/assets/a8a9b9fd-411c-49ac-96b4-032d8088ad89)
 
- - **Tela de Cadastro de Alunos**
+- **Tela de Cadastro de Alunos**
 ![image](https://github.com/user-attachments/assets/3074b39d-375e-46ff-ab55-06464e2cd634)
 
 
