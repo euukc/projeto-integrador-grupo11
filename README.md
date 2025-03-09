@@ -39,39 +39,18 @@ Foram criados protótipos para as telas do sistema, conforme abaixo:
     <td><img src="https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c" width="300"></td>
     
   </tr>
-</table>
 
-<table>
-  <tr>
-    <th>Cadastro de Pessoa Física</th>
-    <th>Cadastro de Pessoa Jurídica</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e786179b-019c-47bf-bf32-3e1488229efa" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c" width="300"></td>
-  </tr>
 </table>
-
 <table>
   <tr>
     <th>Cadastro de Professores</th>
     <th>Cadastro de Fornecedores</th>
+   <th>Cadastro de Alunos</th>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/8d58cacd-6c03-4f68-b72c-9c70e6eaad18" width="300"></td>
     <td><img src="https://github.com/user-attachments/assets/67b11508-2b76-4f74-b089-8eacbefa83ec" width="300"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Cadastro de Alunos</th>
-  </tr>
-  <tr>
     <td><img src="https://github.com/user-attachments/assets/3074b39d-375e-46ff-ab55-06464e2cd634" width="300"></td>
   </tr>
 </table>
-
-
-
 
