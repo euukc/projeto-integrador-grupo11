@@ -33,16 +33,16 @@ Foram criados protótipos para as telas do sistema, conforme abaixo:
   ![image](https://github.com/user-attachments/assets/e786179b-019c-47bf-bf32-3e1488229efa)
 
 - **Tela de Cadastro de Pessoa Jurídica**
-![image](https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c)
+  ![image](https://github.com/user-attachments/assets/9972b90e-27ef-4706-9bac-b1e29de5928c)
 
 - **Tela de Cadastro de Professores**
-![image](https://github.com/user-attachments/assets/8d58cacd-6c03-4f68-b72c-9c70e6eaad18)
+  ![image](https://github.com/user-attachments/assets/8d58cacd-6c03-4f68-b72c-9c70e6eaad18)
 
 - **Tela de Cadastro de Fornecedores**
-![image](https://github.com/user-attachments/assets/a8a9b9fd-411c-49ac-96b4-032d8088ad89)
+  ![image](https://github.com/user-attachments/assets/a8a9b9fd-411c-49ac-96b4-032d8088ad89)
 
 - **Tela de Cadastro de Alunos**
-![image](https://github.com/user-attachments/assets/3074b39d-375e-46ff-ab55-06464e2cd634)
+  ![image](https://github.com/user-attachments/assets/3074b39d-375e-46ff-ab55-06464e2cd634)
 
 
 
